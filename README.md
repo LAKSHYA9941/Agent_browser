@@ -71,7 +71,7 @@ You can modify the prompt in `agent.js` to change the agent's behavior or target
 
 ## License
 
-ISC
+Lakshya Sharma
 
 ---
 
